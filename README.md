@@ -4,3 +4,4 @@ The project focused on developing an abstractive text summarization system using
 
 
 
+![image](https://github.com/user-attachments/assets/072357c6-7c4d-40e2-8b2a-ed323d1f6866)
